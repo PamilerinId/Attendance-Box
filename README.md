@@ -4,6 +4,8 @@ A class attendance system built on the Raspberry Pi
 
 Wrote this a few years ago. Will resume work on it for upgrades, fine tuning and fun
 Workflow based on my university.
+So far.. only works if you know what you are doing and by some wierd stroke of luck replicate my environment variables.
+Will make it noob friendly in due course
 
 # Physical Components
 Raspberry Pi 2
